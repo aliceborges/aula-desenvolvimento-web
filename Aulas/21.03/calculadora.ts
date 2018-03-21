@@ -22,3 +22,11 @@ console.log(calculadora(2, 4, soma))
 console.log(calculadora(2, 4, subtracao))
 console.log(calculadora(2, 4, ambos))
 console.log(calculadora(2, 4, informaDados))
+
+let numbers: Array<number> = [1,2,3,4,5]
+
+let quadrados= numbers.map( (number) => {
+	return 'O quadrado de ' + number + ' é: ' +  number*number
+})
+
+console.log(quadrados)

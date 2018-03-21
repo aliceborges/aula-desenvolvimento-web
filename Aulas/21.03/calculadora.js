@@ -17,3 +17,8 @@ console.log(calculadora(2, 4, soma));
 console.log(calculadora(2, 4, subtracao));
 console.log(calculadora(2, 4, ambos));
 console.log(calculadora(2, 4, informaDados));
+var numbers = [1, 2, 3, 4, 5];
+var quadrados = numbers.map(function (number) {
+    return 'O quadrado de ' + number + ' é: ' + number * number;
+});
+console.log(quadrados);
