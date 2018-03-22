@@ -1,14 +1,11 @@
 <ion-header>
   <ion-navbar>
     <ion-title>
-      Ionic Blank
+      Menu
     </ion-title>
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+<ion-content padding> <!-- BLOCK é para preencher toda a tela horizontalmente -->
+  <button ion-button block (tap)="menu()" >hello</button> <!-- TAP: Abre no momento que você clica. O onclick() espera um terço de segundo, para ver se a pessoa não vai arrastar-->
 </ion-content>
