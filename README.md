@@ -24,11 +24,11 @@ npm install -g ionic cordova
 ```
 
 ##### Para rodar o projeto ionic no navegador:
-####### Para rodar emulando aplicativo:
+###### Para rodar emulando aplicativo:
 ```
 ionic serve --lab
 ```
-####### Para rodar como página web:
+###### Para rodar como página web:
 ```
 ionic serve
 ```
