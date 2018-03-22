@@ -1,14 +1,10 @@
 # Aula de Desenvolvimento Mobile - IFC Araquari
 #### Professor: Jefferson (https://github.com/jeffersonchaves)
 
-###### ---------------------------------
-
 #### Comandos git: 
 ```
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
 ```
-
-###### ---------------------------------
 
 #### Programas utilizados:
 ##### Windows: Visual Studio Code
@@ -21,8 +17,6 @@ https://packagecontrol.io/packages/TypeScript
 https://packagecontrol.io/packages/Babel
 ```
 
-###### ---------------------------------
-
 #### TYPESCRIPT
 
 ##### Executando um arquivo .TS:
@@ -30,8 +24,6 @@ https://packagecontrol.io/packages/Babel
 tsc arquivo.ts
 node arquivo.js
 ```
-
-###### ---------------------------------
 
 #### IONIC CORDOVA
 
