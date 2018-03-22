@@ -23,6 +23,15 @@ https://packagecontrol.io/packages/Babel
 npm install -g ionic cordova
 ```
 
+##### Para rodar o projeto ionic no navegador:
+```
+ionic serve --lab
+```
+####### ou
+```
+ionic serve
+```
+
 ##### Executando um arquivo .TS:
 ```
 tsc arquivo.ts
