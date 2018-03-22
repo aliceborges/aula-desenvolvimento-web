@@ -8,7 +8,9 @@ https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
 #### TYPESCRIPT
 ##### Windows: Visual Studio Code
-##### Linux: Sublime 
+##### Linux: Sublime / Visual Studio
+
+###### Packages para o Sublime:
 ```
 https://packagecontrol.io/installation
 https://packagecontrol.io/packages/TypeScript
