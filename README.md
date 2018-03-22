@@ -17,6 +17,12 @@ https://packagecontrol.io/packages/TypeScript
 https://packagecontrol.io/packages/Babel
 ```
 
+##### Instalando Ionic:
+###### (O Node já deve estar instalado)
+```
+npm install -g ionic cordova
+```
+
 ##### Executando um arquivo .TS:
 ```
 tsc arquivo.ts
