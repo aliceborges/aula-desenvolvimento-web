@@ -7,6 +7,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { HelloWorldPage } from '../pages/hello-world/hello-world';
+import { DataBindingPageModule } from '../pages/data-binding/data-binding.module';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { HelloWorldPage } from '../pages/hello-world/hello-world';
   ],
   imports: [
     BrowserModule,
+    DataBindingPageModule,
     IonicModule.forRoot(MyApp)
   ],
   bootstrap: [IonicApp],

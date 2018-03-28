@@ -7,5 +7,6 @@
 </ion-header>
 
 <ion-content padding> <!-- BLOCK é para preencher toda a tela horizontalmente -->
-  <button ion-button block (tap)="menu()" >hello</button> <!-- TAP: Abre no momento que você clica. O onclick() espera um terço de segundo, para ver se a pessoa não vai arrastar-->
+  <button ion-button block (tap)="menu('HelloWorldPage')" >hello</button> <!-- TAP: Abre no momento que você clica. O onclick() espera um terço de segundo, para ver se a pessoa não vai arrastar-->
+  <button ion-button block (tap)="menu('DataBindingPage')" >data binding</button>
 </ion-content>
