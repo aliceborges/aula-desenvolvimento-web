@@ -6,6 +6,4 @@ import { Component } from "@angular/core";
     template: `<p>Hello World!</p>`
 
 })
-export class HelloWorldPage{
-
-}
+export class HelloWorldPage{}
