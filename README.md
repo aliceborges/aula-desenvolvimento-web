@@ -33,6 +33,11 @@ node arquivo.js
 npm install -g ionic cordova
 ```
 
+##### Comando para criar novos componentes/páginas:
+```
+ionic generate
+```
+
 ##### Para rodar o projeto ionic no navegador:
 ###### Para rodar emulando aplicativo:
 ```
