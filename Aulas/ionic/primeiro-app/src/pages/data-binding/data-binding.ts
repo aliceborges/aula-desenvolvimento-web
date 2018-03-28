@@ -15,11 +15,17 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class DataBindingPage {
 
+  private imgUrl: string='https://fakeimg.pl/350x200/?text=Ionic';
+
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad DataBindingPage');
+  }
+
+  private getValor(){
+    return 2;
   }
 
 }
